@@ -1,0 +1,7 @@
+spark:
+  app-name: ApacheSparkSpringifiedApp
+  window-size-in-seconds: 3
+  input-host:
+  input-port:
+  output-host:
+  output-port:

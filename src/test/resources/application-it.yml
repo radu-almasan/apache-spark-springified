@@ -1,0 +1,6 @@
+spark:
+  master: local[*]
+  input-host: localhost
+  input-port: 1234
+  output-host: localhost
+  output-port: 5678
